@@ -19,25 +19,9 @@
                 "name": "Tatham Johnson"
             },
             "tags": [
-                   "Blog"
             ],
             "date_published": "2021-07-27T21:44:44-07:00",
             "date_modified": "2021-07-27T21:44:44-07:00"
-        },
-        {
-            "id": "https://acromiongames.github.io/TathamRMT.com/find-me/",
-            "url": "https://acromiongames.github.io/TathamRMT.com/find-me/",
-            "title": "Find Me",
-            "summary": "I currently work out of Resilience For Life Massage Therapy. 659A Moberly Rd, Vancouver BC V5Z 4B2 ",
-            "content_html": "<p class=\"msg--highlight\">I currently work out of <strong>Resilience For Life Massage Therapy</strong>.</p>\n<p class=\"post__entry__intro\">659A Moberly Rd, Vancouver BC V5Z 4B2</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"600\" height=\"450\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2603.4887322298905!2d-123.12125698433549!3d49.26713577932964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548673dc7779668b%3A0x8b07ed830d4736bf!2sResilience%20For%20Life%20Massage%20Therapy%20Clinic!5e0!3m2!1sen!2sca!4v1627431471973!5m2!1sen!2sca\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></div>\n<p> </p>",
-            "image": "https://acromiongames.github.io/TathamRMT.com/media/posts/3/session.jpg",
-            "author": {
-                "name": "Tatham Johnson"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-07-27T17:19:19-07:00",
-            "date_modified": "2021-07-27T22:08:28-07:00"
         }
     ]
 }

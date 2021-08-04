@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://acromiongames.github.io/TathamRMT.com/sitemap.xml

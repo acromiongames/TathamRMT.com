@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Tatham Johnson RMT</title>
+    <link href="https://acromiongames.github.io/TathamRMT.com/feed.xml" rel="self" />
+    <link href="https://acromiongames.github.io/TathamRMT.com" />
+    <updated>2021-07-27T22:08:28-07:00</updated>
+    <author>
+        <name>Tatham Johnson</name>
+    </author>
+    <id>https://acromiongames.github.io/TathamRMT.com</id>
+
+    <entry>
+        <title>What is Fascia?</title>
+        <author>
+            <name>Tatham Johnson</name>
+        </author>
+        <link href="https://acromiongames.github.io/TathamRMT.com/what-is-fascia/"/>
+        <id>https://acromiongames.github.io/TathamRMT.com/what-is-fascia/</id>
+            <category term="Blog"/>
+
+        <updated>2021-07-27T21:44:44-07:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a post where I'm gonna talk about fascia for a bit. It should help my SEO some.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a post where I'm gonna talk about fascia for a bit. It should help my SEO some.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Find Me</title>
+        <author>
+            <name>Tatham Johnson</name>
+        </author>
+        <link href="https://acromiongames.github.io/TathamRMT.com/find-me/"/>
+        <id>https://acromiongames.github.io/TathamRMT.com/find-me/</id>
+
+        <updated>2021-07-27T22:08:28-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://acromiongames.github.io/TathamRMT.com/media/posts/3/session.jpg" alt="" />
+                    I currently work out of Resilience For Life Massage Therapy. 659A Moberly Rd, Vancouver BC V5Z 4B2 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://acromiongames.github.io/TathamRMT.com/media/posts/3/session.jpg" alt="" />
+                <p class="msg--highlight">I currently work out of <strong>Resilience For Life Massage Therapy</strong>.</p>
+<p class="post__entry__intro">659A Moberly Rd, Vancouver BC V5Z 4B2</p>
+<div class="post__iframe"><iframe loading="lazy" width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2603.4887322298905!2d-123.12125698433549!3d49.26713577932964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548673dc7779668b%3A0x8b07ed830d4736bf!2sResilience%20For%20Life%20Massage%20Therapy%20Clinic!5e0!3m2!1sen!2sca!4v1627431471973!5m2!1sen!2sca" allowfullscreen="allowfullscreen" loading="lazy"></iframe></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
